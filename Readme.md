@@ -1,1 +1,1 @@
-[DM](https://github.com/jaggufrankie/DM)
+[SCT](https://github.com/jaggufrankie/SCT/blob/main/sct.txt)
